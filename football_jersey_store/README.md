@@ -108,7 +108,7 @@ App opens in Chrome — wait 1–3 minutes for first build.
 - **Attached:** `docs/model_diagram.png`
 - **Links sent:** GitHub repo + Demo video
 - **Collaborator added:** `siripenp`
-- **Oral Exam:** Thursday/Friday next week — Room IT123 (TBD)
+- **Oral Exam:** Tuesday30 June or Wednesday 1 July.
 
 ---
 
