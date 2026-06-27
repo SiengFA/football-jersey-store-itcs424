@@ -70,15 +70,8 @@ lib/
 
 ### Steps
 ```bash
-# 1. Clone
-git clone https://github.com/YOUR_USERNAME/football-jersey-store-itcs424.git
-cd football-jersey-store-itcs424
-
-# 2. Get packages
-flutter pub get
-
-# 3. Run on Chrome
-flutter run -d chrome
+cd ~/Documents/Claude/Projects/GritHub/football_jersey_store
+~/flutter/bin/flutter run -d chrome --no-pub
 ```
 
 App opens in Chrome — wait 1–3 minutes for first build.
