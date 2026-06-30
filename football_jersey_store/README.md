@@ -11,6 +11,7 @@
 
 ## 📺 Demo Video
 🎥 **YouTube (Unlisted):** https://www.youtube.com/watch?v=P8sDJ8PTIpM
+🎥 **YouTube 2nd (Unlisted):** https://youtu.be/8CHqs-deOnk
 
 ---
 
